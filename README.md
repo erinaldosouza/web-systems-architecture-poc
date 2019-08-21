@@ -34,7 +34,7 @@ PS: It's necessary MySQL Server up and running
 Spring Boot application responsable for access authorization to resources
 https://github.com/erinaldosouza/authorizer
 
-# NGINX API GATEWAY
+# Nginx Api Gateway
 Nginx Api Gateway configuration files
 https://github.com/erinaldosouza/nginx-api-gateway
 
