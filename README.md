@@ -43,6 +43,8 @@ Monolithic implementation used to analyse performance between the architectures
 https://github.com/erinaldosouza/sys-monolithic
 PS: It's necessary PostgreSQL Server up and running
 
+# Test Scripts - JMeter and Selenium IDE
+
 
 
 
