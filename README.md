@@ -1,6 +1,6 @@
 # Web Systems Architecture POC
-Respository to group the components of web systems architecture POC implementation
-It necessary pay attention on configurations
+Respository to group the components of web systems architecture POC implementation.
+It's necessary to configure the environment(ip address, server port, database etc) to run the architecture properly
 
 # Discovery Service
 Spring Boop Netflix Eureka Service Discovery
