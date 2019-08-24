@@ -9,30 +9,32 @@ https://github.com/erinaldosouza/eureka-business-service-discovery
 # Business Service
 Spring Boot User service API business operations
 https://github.com/erinaldosouza/users-microservices
+PS: It's necessary a Eureka Server up and running.
 
 # Persistence Service - Relational
 Spring Boot User persistence service API with CRUD operations
 https://github.com/erinaldosouza/users-persistence-microservices
-PS: It's necessary a RabbitMQ Server configuration and PostgreSQL up and running
+PS: It's necessary a RabbitMQ Server, Eureka Server and PostgreSQL up and running
 
 # Persistence Service - Non-relational
 NodeJS, Express and MongoDB with non-relational model CRUD operations
 https://github.com/erinaldosouza/documents-persistence-service
-PS: It's necessary a RabbitMQ Server configuration and MongoDB up and running
+PS: It's necessary a RabbitMQ Server, Eureka Server and MongoDB up and running
 
 # Authenticator Manager
 Python + Django applicaion used to manager user access control
 https://github.com/erinaldosouza/django-auth-manager
-PS: It's necessary MySQL Server up and running
+PS: It's necessary MySQL Server and Eureka Server up and running
 
 # Authenticator
 Spring Boot Security application responsable for users authentication with login and password and  access token generation
 https://github.com/erinaldosouza/authenticator
-PS: It's necessary MySQL Server up and running
+PS: It's necessary MySQL Server and Eukrea Server up and running
 
 # Authorizer
 Spring Boot application responsable for access authorization to resources
 https://github.com/erinaldosouza/authorizer
+PS: It's necessary a Eureka Server up and running
 
 # Nginx Api Gateway
 Nginx Api Gateway configuration files
